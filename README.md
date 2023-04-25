@@ -1,2 +1,2 @@
-# Join
-Make an issue here to join. Read the ReadMe before doing so.
+<h2>How to Join</h2>
+<p>In order to join, you must first <b>prove you are worthy</b> of the GxmeTech Organization. You must have posted some kind of game, bookmarklet, or cheat on your github profile. If you meet that criteria, go to the <b>Join repository</b> (pinned below) and create an issue. On the issue, explain why you want to join, and how you could be useful in our organization. If you meet all that criteria, we will close the issue and send you a join request. If you do not meet the criteria, we will reply back saying what criteria you haven't met and how to achive it so you can join.</p>
